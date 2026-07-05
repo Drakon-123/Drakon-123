@@ -1,19 +1,18 @@
 ## Hello People of Earth
 
-I am Zaryab Haider, a Computer Science student at University of Guelph. 
+I am Zaryab Haider, a Computer Science student at University of Guelph with a focused on offensive security and penetration testing. My goal to work as a Red Teamer, finding and exploiting vulnerablities before the bad guys do.
 
-Focused to learn networking and pentensting. I wanna be a Red Teamer in future. 
-
-I mostly practice on HackTheBox labs and CTF. I like to use AI to build stuff and been using Claude Code for building exciting things.
+I practice on HackTheBox labs and PicoCTF. I docement everything I learn from lab writeups to coding.I also build tools and exciting projects using AI primarily with Claude code.
 
 This is my portfolio for the Red teaming and I'll pushing CTF documentation and projects here. 
 
 **Home Lab**
 
-Home lab consist of 
+My lab is a local virtualized environment for hands-on offensive security practice. It consist of :-
 - Kali Linux ( Attacker )
 - Metasploiter 2 ( Target )
-    Metasploiter 2 is a linux based virtual machine which consist of many vulnerabilities and open ports.
+
+    Metasploiter 2 is a linux based virtual machine which consist of many vulnerabilities and open ports to practice real attacks.
 
 
 
