@@ -10,9 +10,9 @@ This is my portfolio for the Red teaming and I'll pushing CTF documentation and 
 
 My lab is a local virtualized environment for hands-on offensive security practice. It consist of :-
 - Kali Linux ( Attacker )
-- Metasploiter 2 ( Target )
+- Metasploitable 2 ( Target )
 
-    Metasploiter 2 is a linux based virtual machine which consist of many vulnerabilities and open ports to practice real attacks.
+    Metasploitable 2 is a linux based virtual machine which consist of many vulnerabilities and open ports to practice real attacks.
 
 
 
